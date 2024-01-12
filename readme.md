@@ -1,7 +1,7 @@
 ## Hello my name : Alex LAGE 🦁
 
 
-## dev skills
+## dev beginner
 
 -VScode
 -HTML
