@@ -1,7 +1,7 @@
 ## Hello my name : Alex LAGE 🦁🐯
 
 
-## dev beginner
+## dev student 
 
 -VScode
 -HTML
