@@ -1,4 +1,4 @@
-## Hello my name : Alex LAGE  
+## Hello my name : Alex LAGE 🦁
 
 
 ## dev skills
